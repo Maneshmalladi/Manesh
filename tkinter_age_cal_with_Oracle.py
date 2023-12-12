@@ -77,7 +77,7 @@ def calculateAge():
         # Store the calculated age in Oracle Database
         storeAgeInDatabase(sno, birth_day, birth_month, birth_year, given_day, given_month, given_year, calculated_day, calculated_month, calculated_year)
 
-# Rest of your code remains unchanged...
+
 
 
 
